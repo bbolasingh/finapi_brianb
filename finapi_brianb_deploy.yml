@@ -5,7 +5,7 @@ pool:
 
 variables:
   - name: projectName
-    value: 'Training-Student-002-OC014>'              # <-- Update this
+    value: 'Training-Student-002-OC014'              # <-- Update this
   - name: buildPipelineName
     value: 'finapi_brianb_build'       # <-- Update this
   - name: artifactName
